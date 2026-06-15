@@ -45,35 +45,17 @@ class AtharvSharma:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=thedevz29&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=thedevz29&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thedevz29&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=thedevz29&theme=tokyonight&no-frame=true&row=1)
-
-</div>
-
----
-
 ## 📫 Connect
 
 <div align="center">
 
-📧 **atharv.sharma2912@gmail.com**
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:atharv.sharma2912@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
+</a>
 
 </div>
 
