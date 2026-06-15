@@ -1,33 +1,72 @@
-👋 Hey, I’m Atharv Sharma
+Hey 👋, I’m Atharv Sharma
 
-Python Developer • Editor • Community Builder 🚀
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Python+Developer+%F0%9F%90%8D;PyTorch+Explorer+%F0%9F%A7%A0;Video+Editor+%F0%9F%8E%AC;Founder+of+NexSemble+%F0%9F%9A%80;Always+Building+Something+Cool+%E2%9C%A8" />
+</div>
+
+⸻
 
 🚀 About Me
 
-* 🐍 Python enthusiast building projects and learning by doing
-* 🧠 Currently exploring PyTorch & AI development
-* 🎬 Video editor with experience in DaVinci Resolve
-* 🌱 Founder of NexSemble, a growing coding community
-* 💡 Passionate about solving real-world problems with technology
+class AtharvSharma:
+    def __init__(self):
+        self.role = "Developer & Community Builder"
+        self.community = "NexSemble"
+        self.languages = ["Python", "JavaScript"]
+        self.learning = ["PyTorch", "Deep Learning", "Computer Vision"]
+        self.tools = ["Flask", "Git", "GitHub", "VS Code"]
+        self.hobby = "Editing Anime Videos"
+    def motto(self):
+        return "Code. Build. Inspire."
+
+⸻
 
 🛠️ Tech Stack
 
-Languages  : Python, JavaScript, HTML, CSS
-Frameworks : Flask, PyTorch
-Tools      : Git, GitHub, VS Code, DaVinci Resolve
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,git,github,vscode" />
+</p>
 
-📈 Current Focus
+⸻
 
-* Building AI-powered applications
-* Growing NexSemble
-* Learning Deep Learning & Computer Vision
-* Shipping more open-source projects
+🌱 Currently
 
-🔗 Connect
+* 🧠 Learning PyTorch & AI
+* 🚀 Growing NexSemble
+* 💡 Building fun & useful projects
+* 🤝 Connecting developers through community
 
-🐙 GitHub: @thedevz29
-💼 LinkedIn: Atharv Sharma
-📧 Email: atharv.sharma2912@gmail.com
-🌐 Community: NexSemble
+⸻
 
-Code. Build. Inspire. ✨
+📊 GitHub Stats
+
+<div align="center">
+</div>
+
+⸻
+
+🏆 GitHub Trophies
+
+<div align="center">
+</div>
+
+⸻
+
+🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:atharv.sharma2912@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/NexSemble-Community-purple?style=for-the-badge" />
+  </a>
+</p>
+
+⸻
+
+<div align="center">
+
+💫 Code. Connect. Repeat.
+
+</div>
