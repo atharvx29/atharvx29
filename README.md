@@ -1,21 +1,33 @@
-# 👋 Hey, I'm Atharv Sharma
-> Python Developer | PyTorch Explorer | Community Builder 🚀
+👋 Hey, I’m Atharv Sharma
 
-## 🔍 About Me
-I write Python, ship projects, and keep leveling up. Currently diving into **PyTorch** to bridge clean code with smart models. I’ve built **20+ projects solo**, and now I’m launching a **dev community** to connect coders, share knowledge, and grow together.
+Python Developer • Editor • Community Builder 🚀
 
-## 🛠️ Stack & Focus
-- 🐍 **Python** (core workflow, automation & app dev)
-- 🧠 **PyTorch** (currently learning & experimenting)
-- 📦 APIs, CLI tools, & lightweight full-stack apps
-- 🤝 Building a space for devs to collaborate & level up
+🚀 About Me
 
-## 📊 By The Numbers
-- 💡 20+ self-built Python projects
-- 🌍 1 dev community in progress
-- 📈 Always shipping, always iterating
+* 🐍 Python enthusiast building projects and learning by doing
+* 🧠 Currently exploring PyTorch & AI development
+* 🎬 Video editor with experience in DaVinci Resolve
+* 🌱 Founder of NexSemble, a growing coding community
+* 💡 Passionate about solving real-world problems with technology
 
-## 🔗 Let’s Connect
-💼 [LinkedIn](Atharv Sharma) | 📧 [Email](atharv.sharma2912@gmail.com) | 🌐 [Community](NexSemble) | 🐙 [GitHub](thedevz29)
+🛠️ Tech Stack
 
-> *“Code. Connect. Repeat.”* ✨
+Languages  : Python, JavaScript, HTML, CSS
+Frameworks : Flask, PyTorch
+Tools      : Git, GitHub, VS Code, DaVinci Resolve
+
+📈 Current Focus
+
+* Building AI-powered applications
+* Growing NexSemble
+* Learning Deep Learning & Computer Vision
+* Shipping more open-source projects
+
+🔗 Connect
+
+🐙 GitHub: @thedevz29
+💼 LinkedIn: Atharv Sharma
+📧 Email: atharv.sharma2912@gmail.com
+🌐 Community: NexSemble
+
+Code. Build. Inspire. ✨
